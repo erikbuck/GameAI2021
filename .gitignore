@@ -105,3 +105,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Whole directories that can be regenerated on demand
+DesktopTowerDefense/Library
+DesktopTowerDefense/Logs
+
