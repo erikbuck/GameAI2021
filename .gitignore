@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# Pointless Apple brain damage
+.DS_Store
+
 # Compiled Object files
 *.slo
 *.lo
